@@ -3,9 +3,11 @@ Your task is to create a simple API that interacts with a public news API for fe
 
 ## to start:
 
-`node ./src/index.js`
+`npm install`
 
-to access the endpoint open `localhost:5000` in the browser
+`npm start`
+
+Then open `localhost:5000` in the browser
 
 ## API key: 
 get at gnews.io, save to api.key in top level directory
