@@ -1,0 +1,11 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "demo api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "alex",
+  "license": "ISC"
+}
